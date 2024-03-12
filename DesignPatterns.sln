@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern", "ConsoleAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{29F5E3AD-FD1E-4C24-AA0E-FCB0D2C3688B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{48B10D60-4F01-4A6C-9354-D2FF5E5E4EC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{29F5E3AD-FD1E-4C24-AA0E-FCB0D2C3688B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29F5E3AD-FD1E-4C24-AA0E-FCB0D2C3688B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29F5E3AD-FD1E-4C24-AA0E-FCB0D2C3688B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B10D60-4F01-4A6C-9354-D2FF5E5E4EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B10D60-4F01-4A6C-9354-D2FF5E5E4EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B10D60-4F01-4A6C-9354-D2FF5E5E4EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B10D60-4F01-4A6C-9354-D2FF5E5E4EC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
